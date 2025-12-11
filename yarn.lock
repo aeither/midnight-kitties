@@ -622,6 +622,15 @@
   resolved "https://registry.yarnpkg.com/@js-sdsl/ordered-map/-/ordered-map-4.4.2.tgz#9299f82874bab9e4c7f9c48d865becbfe8d6907c"
   integrity sha512-iUKgm52T8HOE/makSxjqoWhe95ZJA1/G1sYsGev2JDKUSS14KAgg1LHb+Ba+IPow0xflbnSkOsZcO08C7w1gYw==
 
+"@midnight-ntwrk/compact-runtime@0.9.0":
+  version "0.9.0"
+  resolved "https://registry.yarnpkg.com/@midnight-ntwrk/compact-runtime/-/compact-runtime-0.9.0.tgz#2b0eb0d3f4dd3b95f152996608c08f3460e2b340"
+  integrity sha512-Dsms+SWRWlaTIay4SO7ITxTJvo8lgEKkMss+dQnIZDnEoCEO5lHTSj4TckBAvyYSWm4KElN3tir/MVm5hHgfDA==
+  dependencies:
+    "@midnight-ntwrk/onchain-runtime" "^0.3.0"
+    "@types/object-inspect" "^1.8.1"
+    object-inspect "^1.12.3"
+
 "@midnight-ntwrk/compact-runtime@^0.8.1":
   version "0.8.1"
   resolved "https://registry.yarnpkg.com/@midnight-ntwrk/compact-runtime/-/compact-runtime-0.8.1.tgz#f6fb532ab1149e9509d0cdb2a93d47db31766ecb"
